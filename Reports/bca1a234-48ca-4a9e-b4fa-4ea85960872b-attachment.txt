@@ -1,0 +1,2 @@
+[32mINFO    [0m test_launch:test_001_RegisterPage.py:27 The App is launched for REGISTER PAGE
+[32mINFO    [0m test_launch:test_001_RegisterPage.py:29 App successfully launched

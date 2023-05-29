@@ -1,0 +1,2 @@
+[32mINFO    [0m test_launch:test_002_LoginPage.py:20 The app is launched
+[32mINFO    [0m test_launch:test_002_LoginPage.py:23 The title matching is successful

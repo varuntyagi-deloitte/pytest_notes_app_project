@@ -1,0 +1,2 @@
+[32mINFO    [0m test_register:test_001_RegisterPage.py:35 The registration Test is launched
+[32mINFO    [0m test_register:test_001_RegisterPage.py:44 Registration test successfully completed

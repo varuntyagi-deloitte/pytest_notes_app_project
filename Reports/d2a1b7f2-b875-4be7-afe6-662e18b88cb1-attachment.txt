@@ -1,0 +1,1 @@
+[32mINFO    [0m test_login:test_002_LoginPage.py:30 The login test is started

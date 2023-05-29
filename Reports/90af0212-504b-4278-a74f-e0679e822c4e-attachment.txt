@@ -1,0 +1,1 @@
+[32mINFO    [0m test_invalid_login:test_002_LoginPage.py:41 The Invalid Login test is started
